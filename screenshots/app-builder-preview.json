@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "喂小狐",
+      "hasCanvas": false,
+      "bodyTextLen": 84,
+      "bodyTextHash": "dac0faba2face1f8c79ad97606e0a4d9e85ea582f7331c9c29ade04f121fdfd1",
+      "bodyTextPrefix": "0 喂小狐 小狐饿了，喂它吃单词 点对的词就给它点心 · 超简单 喂小狐 拍泡泡 翻牌子 交朋友 贴纸 0/15 家里人 贴纸 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "喂小狐",
+      "hasCanvas": false,
+      "bodyTextLen": 84,
+      "bodyTextHash": "dac0faba2face1f8c79ad97606e0a4d9e85ea582f7331c9c29ade04f121fdfd1",
+      "bodyTextPrefix": "0 喂小狐 小狐饿了，喂它吃单词 点对的词就给它点心 · 超简单 喂小狐 拍泡泡 翻牌子 交朋友 贴纸 0/15 家里人 贴纸 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

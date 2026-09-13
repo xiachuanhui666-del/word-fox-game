@@ -1,0 +1,8 @@
+node_modules/
+.vercel/
+.nitro/
+.tanstack/
+dist/
+.env
+.env.local
+npm-debug.log*
